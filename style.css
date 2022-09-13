@@ -72,7 +72,7 @@ body {
 }
 
 
-@media (min-width: 375px) {
+@media (min-width: 376px) {
     .card--container {
         grid-template-columns: 1fr 1fr;
     }
