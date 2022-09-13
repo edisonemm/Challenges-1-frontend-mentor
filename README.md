@@ -1,8 +1,8 @@
 # Frontend Mentor - Product preview card component
 
-[PREVIEW](htts://edisonemm.github.io/challeges-1-frontend-mentpr)
-
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+
+[Preview](https://edisonemm.github.io/challenges-1-frontend-mentor/)
 
 ## Welcome! 👋
 
