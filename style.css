@@ -29,13 +29,8 @@ body {
     border-radius: 0 10px 10px 0;
 }
 
-
-.card__title,.card__prices--now {
-    font-family: 'Fraunces', serif;
-}
-.card__tag,.card__desc,.card__prices{
-    color:hsl(228, 12%, 48%);
-}
+.card__title,.card__prices--now { font-family: 'Fraunces', serif; }
+.card__tag,.card__desc,.card__prices{ color:hsl(228, 12%, 48%); }
 .card__desc,.card__prices { margin-bottom: 10px;}
 
 .card__button,.card__prices {
@@ -73,14 +68,9 @@ body {
 
 
 @media (min-width: 376px) {
-    .card--container {
-        grid-template-columns: 1fr 1fr;
-    }
+    .card--container { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 376px) {
-    .card__img {
-        max-height: 225px;
-        border-radius: 10px 10px 0 0;
-    }
+    .card__img { border-radius: 10px 10px 0 0; }
     .card { border-radius: 0 0 10px 10px; }
 }
